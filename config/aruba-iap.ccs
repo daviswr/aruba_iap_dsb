@@ -1,0 +1,20 @@
+Script:
+    Aruba IAP Config Retrieval Script
+
+Script-Filter:
+    $vendor eq "Aruba" and
+    ($model like /ap/ or
+     $model like /rap/ or
+     $model like /iap/)
+
+###############
+
+Action:
+    Get Configs
+
+Action-Commands:
+	# Running config
+	ARCHIVE: show running-config
+
+	# Startup config
+	ARCHIVE: show configuration

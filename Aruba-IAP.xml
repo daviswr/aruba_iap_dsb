@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+
+<dsb name="Aruba-IAP" version="202305190001" author="Wes Davis" netmri="7.*">
+    <!-- ARUBA-MIB::apProducts -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.3" /> <!-- AP-60 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.4" /> <!-- AP-61 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.5" /> <!-- AP-70 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.8" /> <!-- AP-1200 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.9" /> <!-- AP-80S -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.10" /> <!-- AP-80M -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.12" /> <!-- AP-40 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.13" /> <!-- AP-41 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.14" /> <!-- AP-65 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.15" /> <!-- AP-MW1700 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.16" /> <!-- AP-DUOWJ -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.17" /> <!-- AP-DUO -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.18" /> <!-- AP-80MB -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.19" /> <!-- AP-80SB -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.20" /> <!-- AP-85 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.21" /> <!-- AP-124 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.22" /> <!-- AP-125 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.23" /> <!-- AP-120 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.24" /> <!-- AP-121 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.25" /> <!-- AP-1250 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.26" /> <!-- AP-120ABG -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.27" /> <!-- AP-121ABG -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.28" /> <!-- AP-124ABG -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.29" /> <!-- AP-125ABG -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.30" /> <!-- RAP-5WN -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.31" /> <!-- RAP-5 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.32" /> <!-- RAP-2WG -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.34" /> <!-- AP-105 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.35" /> <!-- AP-65WB -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.36" /> <!-- AP-651 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.38" /> <!-- AP-60P -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.40" /> <!-- AP-92 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.41" /> <!-- AP-93 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.42" /> <!-- AP-68 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.43" /> <!-- AP-68P -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.44" /> <!-- AP-175P -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.45" /> <!-- AP-175AC -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.46" /> <!-- AP-175DC -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.47" /> <!-- AP-134 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.48" /> <!-- AP-135 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.50" /> <!-- AP-93H -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.51" /> <!-- RAP-3WN -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.52" /> <!-- RAP-3WNP -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.53" /> <!-- AP-104 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.54" /> <!-- RAP-155 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.55" /> <!-- RAP-155P -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.56" /> <!-- RAP-108 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.57" /> <!-- RAP-109 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.58" /> <!-- AP-224 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.59" /> <!-- AP-225 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.60" /> <!-- AP-114 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.61" /> <!-- AP-115 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.62" /> <!-- RAP-109L -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.63" /> <!-- AP-274 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.64" /> <!-- AP-275 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.65" /> <!-- AP-214A -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.66" /> <!-- AP-215A -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.67" /> <!-- AP-204 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.68" /> <!-- AP-205 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.69" /> <!-- AP-103 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.70" /> <!-- AP-103H -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.72" /> <!-- AP-277 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.73" /> <!-- AP-214 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.74" /> <!-- AP-215 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.75" /> <!-- AP-228 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.76" /> <!-- AP-205H -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.77" /> <!-- AP-324 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.78" /> <!-- AP-325 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.79" /> <!-- AP-334 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.80" /> <!-- AP-335 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.81" /> <!-- AP-314 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.82" /> <!-- AP-315 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.83" /> <!-- AP-M210 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.84" /> <!-- AP-207 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.85" /> <!-- AP-304 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.86" /> <!-- AP-305 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.87" /> <!-- AP-303H -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.88" /> <!-- AP-365 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.89" /> <!-- AP-367 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.90" /> <!-- AP-203H -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.91" /> <!-- AP-203R -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.92" /> <!-- AP-203RP -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.93" /> <!-- AP-344 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.94" /> <!-- AP-345 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.95" /> <!-- AP-374 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.96" /> <!-- AP-375 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.97" /> <!-- AP-377 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.98" /> <!-- AP-318 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.99" /> <!-- AP-303 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.100" /> <!-- AP-555 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.101" /> <!-- AP-534 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.102" /> <!-- AP-535 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.104" /> <!-- AP-387 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.105" /> <!-- AP-303P -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.106" /> <!-- AP-514 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.107" /> <!-- AP-515 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.108" /> <!-- AP-544 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.109" /> <!-- AP-545 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.110" /> <!-- AP-504 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.111" /> <!-- AP-505 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.112" /> <!-- AP-505H -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.113" /> <!-- AP-574 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.114" /> <!-- AP-575 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.115" /> <!-- AP-577 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.116" /> <!-- AP-518 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.117" /> <!-- AP-503H -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.118" /> <!-- AP-565 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.119" /> <!-- AP-567 -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.120" /> <!-- AP-575EX -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.121" /> <!-- AP-577EX -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.122" /> <!-- AP-565EX -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.123" /> <!-- AP-567EX -->
+    <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.124" /> <!-- AP-375ATEX -->
+
+    <devicetypemodels devicetype="Wireless Controller" sysObjectID="1.3.6.1.4.1.14823.1.2.71" /> <!-- IAP-VC -->
+
+    <versionmap
+        vendor="Aruba"
+        variable="sysDescr"
+        var_match="/^ArubaOS \\(MODEL: \\w+\\), Version (.+)-/"
+        var_replace="$1"
+        triggered="always"
+    />
+
+    <config vendor="Aruba" devicetype="/^Wireless .+/" hasEnableMode="false" />
+
+    <forwarding vendor="Aruba" collect="qBridge" />
+
+    <inventory
+        vendor="Aruba"
+        devicetype="Wireless Controller"
+        sourcetype="table"
+        triggered="always"
+        collectSysVersion="false"
+        collectSysModel="false"
+        renumberIndex="true"
+        >
+        <!-- From AI-AP-MIB::aiAccessPointTable -->
+        <oids>
+            <!-- 1.3.6.1.4.1.14823.2.3.3.1.2.1.1.2 -->
+            <oid>aiAPName</oid>
+            <!-- 1.3.6.1.4.1.14823.2.3.3.1.2.1.1.4 -->
+            <oid>aiAPSerialNum</oid>
+            <!-- 1.3.6.1.4.1.14823.2.3.3.1.2.1.1.5 -->
+            <oid>aiAPModel</oid>
+            <!-- 1.3.6.1.4.1.14823.2.3.3.1.2.1.1.6 -->
+            <oid>aiAPModelName</oid>
+            <!-- 1.3.6.1.4.1.14823.2.3.3.1.2.1.1.11 -->
+            <oid>aiAPStatus</oid>
+            <!-- aiAPRole: 1.3.6.1.4.1.14823.2.3.3.1.2.1.1.13 -->
+            <oid>aiAccessPointEntry.13</oid> <!-- NetMRI ships with an old MIB -->
+        </oids>
+        <oidMap
+            VendorType="aiAPModel"
+            Name="aiAPName"
+            SerialNum="aiAPSerialNum"
+            ModelName="aiAPModelName"
+            UnitState="aiAPStatus"
+            Class="aiAccessPointEntry.13"
+        />
+        <varReplace>
+            <!-- ARUBA-MIB::apProducts -->
+            <var name="aiAPModel" value="1.3.6.1.4.1.14823.1.2.+" process="pre">
+                <action op="translate" var="aiAPModel" />
+            </var>
+            <var name="aiAPStatus" value="1" process="pre">
+                <action op="replace" var="aiAPStatus" value="up"/>
+            </var>
+            <var name="aiAPStatus" value="2" process="pre">
+                <action op="replace" var="aiAPStatus" value="down"/>
+            </var>
+            <!-- The Class field supports at most 16 characters -->
+            <var name="aiAccessPointEntry.13" value="cluster master" process="pre">
+                <action op="replace" var="aiAccessPointEntry.13" value="controller"/>
+            </var>
+            <var name="aiAccessPointEntry.13" value="cluster slave" process="pre">
+                <action op="replace" var="aiAccessPointEntry.13" value="cluster member"/>
+            </var>
+        </varReplace>
+    </inventory>
+
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="System"        action="INCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="Config"        action="INCLUDE" />
+    <!-- Has dot1qTpFdbPort and dot1qTpFdbStatus; default support has this enabled -->
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="Forwarding"    action="INCLUDE" />
+    <!-- Unsupported -->
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="ARP"           action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="CPU"           action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="Environmental" action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="Memory"        action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="Neighbor"      action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="Route"         action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="VLAN"          action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" dataset="Vrf"           action="EXCLUDE" />
+    <!-- Collect inventory for Virtual Controllers -->
+    <devicesupport vendor="Aruba" model="/^.?ap/" devicetype="Wireless AP"         dataset="Inventory" action="EXCLUDE" />
+    <devicesupport vendor="Aruba" model="/^.?ap/" devicetype="Wireless Controller" dataset="Inventory" action="INCLUDE" />
+
+    <unittests>
+        <test name="Aruba-IAP">
+            <data variable="sysDescr"    index="0" value="ArubaOS (MODEL: 224), Version 8.6.0.20-8.6.0.20" />
+            <data variable="sysObjectID" index="0" value="1.3.6.1.4.1.14823.1.2.58" />
+            <data variable="sysName"     index="0" value="Upstairs-224" />
+            <data variable="sysServices" index="0" value="72" />
+
+            <!-- Expected results -->
+            <device vendor="Aruba" model="ap224" version="8.6.0.20" name="Upstairs-224" type="Wireless AP" />
+            <support system="OK" />
+        </test>
+        <test name="Aruba-VC">
+            <data variable="sysDescr"    index="0" value="ArubaOS (MODEL: 224), Version 8.6.0.20-8.6.0.20" />
+            <data variable="sysObjectID" index="0" value="1.3.6.1.4.1.14823.1.2.71" />
+            <data variable="sysName"     index="0" value="Downstairs-224" />
+            <data variable="sysServices" index="0" value="72" />
+            <!-- Example inventory data -->
+            <data variable="aiAPName"              index="24.100.114.198.224.178" value="Upstairs-224" />
+            <data variable="aiAPName"              index="24.100.114.200.23.174"  value="Downstairs-224" />
+            <data variable="aiAPSerialNum"         index="24.100.114.198.224.178" value="BX0125522" />
+            <data variable="aiAPSerialNum"         index="24.100.114.200.23.174"  value="CT0025562" />
+            <data variable="aiAPModel"             index="24.100.114.198.224.178" value="1.3.6.1.4.1.14823.1.2.58" />
+            <data variable="aiAPModel"             index="24.100.114.200.23.174"  value="1.3.6.1.4.1.14823.1.2.58" />
+            <data variable="aiAPModelName"         index="24.100.114.198.224.178" value="224" />
+            <data variable="aiAPModelName"         index="24.100.114.200.23.174"  value="224" />
+            <data variable="aiAPStatus"            index="24.100.114.198.224.178" value="1" />
+            <data variable="aiAPStatus"            index="24.100.114.200.23.174"  value="1" />
+            <data variable="aiAccessPointEntry.13" index="24.100.114.198.224.178" value="cluster slave" />
+            <data variable="aiAccessPointEntry.13" index="24.100.114.200.23.174"  value="cluster master" />
+
+            <!-- Expected results -->
+            <device vendor="Aruba" model="iapvc" version="8.6.0.20" name="Downstairs-224" type="Wireless Controller" />
+            <inventory index="1"
+                name="Upstairs-224"
+                class="cluster member"
+                modelname="224"
+                serialnum="BX0125522"
+                vendortype="ap224"
+                unitstate="up"
+            />
+            <inventory index="2"
+                name="Downstairs-224"
+                class="controller"
+                modelname="224"
+                serialnum="CT0025562"
+                vendortype="ap224"
+                unitstate="up"
+            />
+            <support system="OK" inventory="OK" />
+        </test>
+    </unittests>
+</dsb>

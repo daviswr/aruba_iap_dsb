@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 
-<dsb name="Aruba-IAP" version="202305190001" author="Wes Davis" netmri="7.*">
+<dsb name="Aruba-IAP" version="202604300000" author="Wes Davis" netmri="7.*" nios="9.0.8">
     <!-- ARUBA-MIB::apProducts -->
     <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.3" /> <!-- AP-60 -->
     <devicetypemodels devicetype="Wireless AP" sysObjectID="1.3.6.1.4.1.14823.1.2.4" /> <!-- AP-61 -->
